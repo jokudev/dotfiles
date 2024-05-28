@@ -1,6 +1,5 @@
 tap "homebrew/bundle"
 tap "homebrew/services"
-tap "netbirdio/tap"
 tap "supabase/tap"
 brew "python@3.12"
 brew "ansible"
